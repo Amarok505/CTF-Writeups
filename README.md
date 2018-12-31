@@ -1,7 +1,7 @@
 # CTF-Writeups 🚫 :lock:
 
 
-![CTF-Time](https://github.com/Amarok505/CTF-Writeups/images/CTF-Time.jpg)
+![CTF-Time](https://github.com/Amarok505/CTF-Writeups/blob/master/images/CTF-Time.jpg)
 
 
 ## What is this?
